@@ -1,0 +1,30 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.grid1 {
+    background: white;
+    border: 2px solid black;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+#orange:hover {
+    background: rgb(255, 165, 0);
+}
+
+#red:hover {
+    background: rgb(222, 59, 0);
+}
+
+#purple:hover {
+    background: rgb(138, 43, 226);
+}
+
+button {
+    border: none;
+    padding: 10px;
+    border-radius: 30px;
+}
